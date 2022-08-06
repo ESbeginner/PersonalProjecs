@@ -1,3 +1,6 @@
+#I got this code from:
+#https://www.instructables.com/Raspberry-Pi-PICO-LCD-not-I2C/
+#This is written to handle a n 8bit LCD display with the raspberri pi pico
 import machine
 import utime
 
